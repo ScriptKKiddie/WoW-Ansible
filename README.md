@@ -14,6 +14,7 @@ S.No. | Content/Topic | Additional Comment
 - https://docs.ansible.com/ansible/latest/reference_appendices/config.html
 - https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html
 - https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html
+- https://docs.ansible.com/ansible/2.9/modules/template_module.html
 
 ## Author(s)
 
