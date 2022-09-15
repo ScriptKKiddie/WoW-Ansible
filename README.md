@@ -24,6 +24,7 @@ S.No. | Content/Topic | Additional Comment
 - https://docs.ansible.com/ansible/2.9/modules/debug_module.html
 - https://docs.ansible.com/ansible/latest/user_guide/connection_details.html
 - https://docs.ansible.com/ansible/2.9/modules/package_module.html
+- https://galaxy.ansible.com/docs/contributing/creating_role.html
 
 ## Author(s)
 
