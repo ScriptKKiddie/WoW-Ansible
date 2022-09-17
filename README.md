@@ -26,6 +26,8 @@ S.No. | Content/Topic | Additional Comment
 - https://docs.ansible.com/ansible/latest/user_guide/connection_details.html
 - https://docs.ansible.com/ansible/2.9/modules/package_module.html
 - https://galaxy.ansible.com/docs/contributing/creating_role.html
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks.html#working-with-playbooks
+- https://docs.ansible.com/ansible/2.9/reference_appendices/YAMLSyntax.html
 
 ## Author(s)
 
