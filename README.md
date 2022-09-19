@@ -28,6 +28,9 @@ S.No. | Content/Topic | Additional Comment
 - https://galaxy.ansible.com/docs/contributing/creating_role.html
 - https://docs.ansible.com/ansible/latest/user_guide/playbooks.html#working-with-playbooks
 - https://docs.ansible.com/ansible/2.9/reference_appendices/YAMLSyntax.html
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#playbooks-intro
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html#playbooks-conditionals
 
 ## Author(s)
 
