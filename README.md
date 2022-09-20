@@ -2,7 +2,7 @@
 
 WoW-Ansible is all-in-one repository curated with the most relevant, updated, and well-researched information sourced from Internet &amp; Community.
 
-![WoW-Technology](https://img.shields.io/badge/WoW-Technology-brightgreen?style=flat-square&logo=github)
+[![WoW-Technology](https://img.shields.io/badge/WoW-Technology-brightgreen?style=flat-square&logo=github)](https://github.com/topics/wow-technology)
 
 ## Index
 
@@ -30,8 +30,13 @@ S.No. | Content/Topic | Additional Comment
 - https://docs.ansible.com/ansible/2.9/reference_appendices/YAMLSyntax.html
 - https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html
 - https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#playbooks-intro
-- https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html#playbooks-conditionals
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html
 - https://docs.ansible.com/ansible/2.9/modules/file_module.html
+- https://docs.ansible.com/ansible/2.9/user_guide/playbooks_conditionals.html
+- https://docs.ansible.com/ansible/2.9/user_guide/playbooks_prompts.html
+- https://docs.ansible.com/ansible/latest/collections/ansible/builtin/template_module.html
+- https://docs.ansible.com/ansible/latest/collections/ansible/builtin/file_module.html
+- https://docs.ansible.com/ansible/2.9/modules/copy_module.html
 
 ## Author(s)
 
